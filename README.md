@@ -20,7 +20,7 @@ This project was generated with:
 
   Simple 'To Do List' App, developed using Angular CLI
 
-  Wanna see a live version?  You can check it out on this: [To Do List](https://douggoncalves.github.io/todo_angularapp/).
+  Wanna see a live version?  You can check it out here: [To Do List](https://douggoncalves.github.io/todo_angularapp/).
 
 
 
